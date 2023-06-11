@@ -11,5 +11,6 @@ public class App {
 
         System.out.println("n = " + n);
         System.out.println("Chuoi vua nhap la: "+str);
+        System.out.println("Em be Giay rat xinh gai");
     }
 }
